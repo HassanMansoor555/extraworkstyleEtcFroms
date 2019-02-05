@@ -1,0 +1,66 @@
+.form-inline
+{
+	margin-right: 200px;
+}
+.form-control
+{
+	font-size: 40px;
+}
+.btn
+{  background-color: orange; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.Cloud
+{
+  background-color: orange; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+}
+.nav-link
+{
+
+  
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;	
+}
+.FormContainer
+{
+	margin-left: 400px;
+	margin-right: 350px;
+	margin-top: 200px;
+	padding: 30px 200px;
+	border: 10px solid black;
+}
+.username
+{
+	font-size: 25px;
+}
+.submitbutton
+{
+	border: none;
+	background-color: orange;
+   padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 10px;
+}
